@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/ReactBabel.iml" filepath="$PROJECT_DIR$/ReactBabel.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/ReactJS.iml" filepath="$PROJECT_DIR$/ReactJS.iml" />
->>>>>>> origin/master
+      <module fileurl="file://$PROJECT_DIR$/.idea/ReactJS_Test.iml" filepath="$PROJECT_DIR$/.idea/ReactJS_Test.iml" />
     </modules>
   </component>
 </project>
