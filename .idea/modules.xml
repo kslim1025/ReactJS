@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ReactJS.iml" filepath="$PROJECT_DIR$/ReactJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReactBabel.iml" filepath="$PROJECT_DIR$/ReactBabel.iml" />
     </modules>
   </component>
 </project>
